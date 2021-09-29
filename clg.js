@@ -1,8 +1,16 @@
+//to run the code, download the file, go to terminal and type "node clg.js"
+//make sure to have node and npm previously installed
+//output snapshots are attached along with
+
+
+
+
+
 const { MongoClient, FindCursor } = require('mongodb');
 
 async function main(){
 
-        const srchclg = await findbyname("Pacific Adventist University");
+        const srchclg = await findbyname("Pacific Adventist University");              //change to required name of clg to access the details of that clg and details of similar clgs
         //console.log(srchclg);
         const coursechoice = await srchclg.courses;
         const clgloc = await srchclg.city;
