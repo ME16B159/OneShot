@@ -7,3 +7,4 @@ With time I would be able to do it ofcourse thus I request you to consider.
 Hoping the main idea about using react was to make it visually appealing and testing the creative design capabilities, 
 i have attached other posters I had made for my previous internship works. 
 Hope it can relay to you my ability to make visually pleasing designs.
+The posters have been added in the files with names rsd, holidays and engineer's day. The orange logo of the company(visible in the posters) were also desgined for the company by me.
