@@ -93,7 +93,7 @@ async function similarclgs(clg, crs)
         }
         else
         {
-            console.log(`No nearby clg found offering course '${crs}'`);
+            console.log(`No nearby clg found offering course '${crs}'`);  //returns statement when no similar colleges are found
         }
     }
     catch (e) {
